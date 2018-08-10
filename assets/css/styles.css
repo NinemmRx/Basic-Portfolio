@@ -23,7 +23,7 @@ div {
 }
 /* box for a block of text */
 .wrapper {
-    width: 800px;
+    width: 960px;
     margin: 20px auto 20px auto;
     border: 2px solid #000000;
     background-color: white;}
@@ -41,5 +41,12 @@ div {
     } */
 
 .back {
-        background-size: cover;
-    }
+    background-size: cover;
+}
+
+.banner {
+    width: 960px;
+    margin: 20px auto 20px auto;
+    border: 2px solid #000000;
+    background-color: white;
+}
