@@ -1,5 +1,7 @@
 .head {
-    text-align: center
+    text-align: auto;
+    padding: 10px;
+    color: #000000;
     }
 
 h1 {
@@ -45,8 +47,16 @@ div {
 }
 
 .banner {
-    width: 960px;
+    width: 100%;
     margin: 20px auto 20px auto;
     border: 2px solid #000000;
     background-color: white;
+}
+
+li a {
+    
+    color: black;
+    border-right: 1px solid black;
+    padding: 8px;
+    text-align: left;
 }
